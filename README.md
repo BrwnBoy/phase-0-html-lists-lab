@@ -164,7 +164,7 @@ might look like:
   <li>Grilled Cheese</li>
   <li>Sushi</li>
   <li>Banh Mi</li>
-  <li>Tomato soup</li>
+  <li>Tomato  soup</li>
   <li>Baba Ghanoush</li>
 </ol>
 ```
